@@ -1,0 +1,235 @@
+THttpSSLClient
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/Info.plist HttpSSLClient/HttpSSLClient-Info.plist
+cProcessPCH /var/folders/ft/75866ksx7bn0kfpblb6znjf40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HttpSSLClient-Prefix-fcyxoxqfndfzyxhgcymqzkbqcrpc/HttpSSLClient-Prefix.pch.pth HttpSSLClient/HttpSSLClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/main.o /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/AppDelegate.o /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/ViewController.o /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/HttpSSLClient normal i386
+cGenerateDSYMFile /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app.dSYM /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/HttpSSLClient
+cCopyStringsFile /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/en.lproj/InfoPlist.strings HttpSSLClient/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/en.lproj/MainStoryboard.storyboard
+cTouch /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004E450D840000000000000154
+t1313148292
+s340
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E3613DE0000000000345540
+t1312166878
+s3429696
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E3A2C2D00000000008D0E00
+t1312435245
+s9244160
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/AppDelegate.m
+c000000004E9B42540000000000000785
+t1318797908
+s1925
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/HttpSSLClient-Prefix.pch
+c000000004E9B42540000000000000149
+t1318797908
+s329
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/ViewController.m
+c000000004E9B436100000000000004AA
+t1318798177
+s1194
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/en.lproj/InfoPlist.strings
+c000000004E9B4254000000000000002D
+t1318797908
+s45
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/en.lproj/MainStoryboard.storyboard
+c000000004E9B425400000000000006CB
+t1318797908
+s1739
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/main.m
+c000000004E9B42540000000000000163
+t1318797908
+s355
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app
+t2
+s0
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app.dSYM
+t2
+s0
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/HttpSSLClient
+t2
+s0
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/Info.plist
+t2
+s0
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/PkgInfo
+t2
+s0
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/HttpSSLClient.LinkFileList
+c000000004E9B436900000000000001C4
+t1318798185
+s452
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/ft/75866ksx7bn0kfpblb6znjf40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HttpSSLClient-Prefix-fcyxoxqfndfzyxhgcymqzkbqcrpc/HttpSSLClient-Prefix.pch.pth
+t2
+s0
+
+NHttpSSLClient/HttpSSLClient-Info.plist
+c000000004E9B425400000000000004E7
+t1318797908
+s1255
+
+CBuild AST from /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/AppDelegate.m
+r0
+
+CBuild AST from /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/ViewController.m
+r0
+
+CBuild AST from /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3199cae97a4bb441^b45b03ea7a4bb441^---0#1#0#--18"Check dependencies36"D31452E1-7C92-41F0-86E6-55972FF4C8B3-
+
+CCompileC build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/AppDelegate.o /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s340490997.833549
+e340490998.881579
+r1
+xCompileC
+xbuild/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/AppDelegate.o
+x/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/AppDelegate.m9293d5f57a4bb441^b0afe1f67a4bb441^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/AppDelegate.m0000000000000000^3008"CompileC build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/AppDelegate.o HttpSSLClient/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vanja/projects/iOSplayground/HttpSSLClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-generated-files.hmap -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-own-target-headers.hmap -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-all-target-headers.hmap -iquote /Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-project-headers.hmap -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/include -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/DerivedSources/i386 -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/DerivedSources -F/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator -include /var/folders/ft/75866ksx7bn0kfpblb6znjf40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HttpSSLClient-Prefix-fcyxoxqfndfzyxhgcymqzkbqcrpc/HttpSSLClient-Prefix.pch -MMD -MT dependencies -MF /Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/AppDelegate.d -c /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/AppDelegate.m -o /Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/AppDelegate.o36"AA9BBAE7-AF12-40C8-8080-617021EF833C-
+
+CCompileC build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/ViewController.o /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s340490997.834670
+e340490998.881583
+r1
+xCompileC
+xbuild/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/ViewController.o
+x/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/ViewController.m89d3d5f57a4bb441^b6b9e1f67a4bb441^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/ViewController.m0000000000000000^3023"CompileC build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/ViewController.o HttpSSLClient/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vanja/projects/iOSplayground/HttpSSLClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-generated-files.hmap -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-own-target-headers.hmap -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-all-target-headers.hmap -iquote /Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-project-headers.hmap -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/include -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/DerivedSources/i386 -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/DerivedSources -F/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator -include /var/folders/ft/75866ksx7bn0kfpblb6znjf40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HttpSSLClient-Prefix-fcyxoxqfndfzyxhgcymqzkbqcrpc/HttpSSLClient-Prefix.pch -MMD -MT dependencies -MF /Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/ViewController.d -c /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/ViewController.m -o /Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/ViewController.o36"10C2B938-C0C8-4656-8572-70D7A72D5A23-
+
+CCompileC build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/main.o /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s340490997.833545
+e340490998.812740
+r1
+xCompileC
+xbuild/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/main.o
+x/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/main.m6891d5f57a4bb441^990fd0f67a4bb441^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/main.m0000000000000000^2973"CompileC build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/main.o HttpSSLClient/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vanja/projects/iOSplayground/HttpSSLClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-generated-files.hmap -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-own-target-headers.hmap -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-all-target-headers.hmap -iquote /Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-project-headers.hmap -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/include -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/DerivedSources/i386 -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/DerivedSources -F/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator -include /var/folders/ft/75866ksx7bn0kfpblb6znjf40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HttpSSLClient-Prefix-fcyxoxqfndfzyxhgcymqzkbqcrpc/HttpSSLClient-Prefix.pch -MMD -MT dependencies -MF /Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/main.d -c /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/main.m -o /Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/main.o36"F63557C1-714A-4F2A-8CA7-EC963D2F5E7D-
+
+CCompileStoryboard /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/en.lproj/MainStoryboard.storyboard
+s340491001.048964
+e340491007.587285
+r1
+xCompileStoryboard
+x/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/en.lproj/MainStoryboard.storyboard
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"CompileStoryboard HttpSSLClient/en.lproj/MainStoryboard.storyboard98a20cf97a4bb441^715896ff7a4bb441^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/en.lproj/MainStoryboard.storyboard0000000000000000^802"CompileStoryboard HttpSSLClient/en.lproj/MainStoryboard.storyboard    cd /Users/vanja/projects/iOSplayground/HttpSSLClient    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/en.lproj/MainStoryboard.storyboardc /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/en.lproj/MainStoryboard.storyboard --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"39D2E09C-3B16-48FB-A269-FA2BAEC01EA7-
+
+CCopyStringsFile /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/en.lproj/InfoPlist.strings HttpSSLClient/en.lproj/InfoPlist.strings
+s340491001.048459
+e340491001.097930
+r1
+xCopyStringsFile
+x/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/en.lproj/InfoPlist.strings
+xHttpSSLClient/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy HttpSSLClient/en.lproj/InfoPlist.strings40d90cf97a4bb441^34db19f97a4bb441^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/en.lproj/InfoPlist.strings0000000000000000^619"CopyStringsFile build/Debug-iphonesimulator/HttpSSLClient.app/en.lproj/InfoPlist.strings HttpSSLClient/en.lproj/InfoPlist.strings    cd /Users/vanja/projects/iOSplayground/HttpSSLClient    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/en.lproj -- HttpSSLClient/en.lproj/InfoPlist.strings36"FE354C6D-6A1A-4557-B814-BFD9657F946C-
+
+CGenerateDSYMFile /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app.dSYM /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/HttpSSLClient
+s340491000.851363
+e340491001.040197
+r1
+xGenerateDSYMFile
+x/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app.dSYM
+x/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/HttpSSLClient
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Generating /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app.dSYM1c07daf87a4bb441^c3490af97a4bb441^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app.dSYM00f4b437dfffdf42^624"GenerateDSYMFile build/Debug-iphonesimulator/HttpSSLClient.app.dSYM build/Debug-iphonesimulator/HttpSSLClient.app/HttpSSLClient    cd /Users/vanja/projects/iOSplayground/HttpSSLClient    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/HttpSSLClient -o /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app.dSYM36"8463D6B5-FC7D-44E0-B922-AD67DCD0DA3B-
+
+CLd /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/HttpSSLClient normal i386
+s340490998.889344
+e340491000.843654
+r1
+xLd
+x/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/HttpSSLClient
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Link /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/HttpSSLClient72c3e3f67a4bb441^4cfad7f87a4bb441^---0#0#0#--1177"Ld build/Debug-iphonesimulator/HttpSSLClient.app/HttpSSLClient normal i386    cd /Users/vanja/projects/iOSplayground/HttpSSLClient    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator -F/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator -filelist /Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/Objects-normal/i386/HttpSSLClient.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -framework UIKit -framework Foundation -o /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/HttpSSLClient36"4095C111-CE57-4DCA-93C8-A293A0DE383A-
+
+CProcessInfoPlistFile /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/Info.plist HttpSSLClient/HttpSSLClient-Info.plist
+s340490986.027342
+e340490986.031959
+r1
+xProcessInfoPlistFile
+x/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/Info.plist
+xHttpSSLClient/HttpSSLClient-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process HttpSSLClient/HttpSSLClient-Info.plistf81907ea7a4bb441^d63b08ea7a4bb441^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/HttpSSLClient-Info.plist0000000000000000^723"ProcessInfoPlistFile build/Debug-iphonesimulator/HttpSSLClient.app/Info.plist HttpSSLClient/HttpSSLClient-Info.plist    cd /Users/vanja/projects/iOSplayground/HttpSSLClient    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility HttpSSLClient/HttpSSLClient-Info.plist -genpkginfo /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app/Info.plist36"0FBBFDDF-6E22-49CD-AA30-19D235863715-
+
+CProcessPCH /Users/vanja/Library/Developer/Xcode/DerivedData/HttpSSLClient-falrzxpegwzobabueqproicrnrzt/Index/PrecompiledHeaders/HttpSSLClient-Prefix-dyevqqpgdozeqtdtowmplpfvkejj_ast/HttpSSLClient-Prefix.pch.pth HttpSSLClient/HttpSSLClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/ft/75866ksx7bn0kfpblb6znjf40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HttpSSLClient-Prefix-fcyxoxqfndfzyxhgcymqzkbqcrpc/HttpSSLClient-Prefix.pch.pth HttpSSLClient/HttpSSLClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s340490986.040299
+e340490997.826607
+r1
+xProcessPCH
+x/var/folders/ft/75866ksx7bn0kfpblb6znjf40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HttpSSLClient-Prefix-fcyxoxqfndfzyxhgcymqzkbqcrpc/HttpSSLClient-Prefix.pch.pth
+xHttpSSLClient/HttpSSLClient-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile HttpSSLClient/HttpSSLClient-Prefix.pchb6860aea7a4bb441^209cd3f57a4bb441^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/HttpSSLClient-Prefix.pch0000000000000000^2972"ProcessPCH /var/folders/ft/75866ksx7bn0kfpblb6znjf40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HttpSSLClient-Prefix-fcyxoxqfndfzyxhgcymqzkbqcrpc/HttpSSLClient-Prefix.pch.pth HttpSSLClient/HttpSSLClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vanja/projects/iOSplayground/HttpSSLClient    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-generated-files.hmap -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-own-target-headers.hmap -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-all-target-headers.hmap -iquote /Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/HttpSSLClient-project-headers.hmap -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/include -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/DerivedSources/i386 -I/Users/vanja/projects/iOSplayground/HttpSSLClient/build/HttpSSLClient.build/Debug-iphonesimulator/HttpSSLClient.build/DerivedSources -F/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator -c /Users/vanja/projects/iOSplayground/HttpSSLClient/HttpSSLClient/HttpSSLClient-Prefix.pch -o /var/folders/ft/75866ksx7bn0kfpblb6znjf40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HttpSSLClient-Prefix-fcyxoxqfndfzyxhgcymqzkbqcrpc/HttpSSLClient-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/ft/75866ksx7bn0kfpblb6znjf40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HttpSSLClient-Prefix-fcyxoxqfndfzyxhgcymqzkbqcrpc/HttpSSLClient-Prefix.pch.d36"103718FB-A22C-4F0E-AEAE-0F70BF0EEAF5-
+
+CTouch /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app
+s340491007.595673
+e340491007.644744
+r1
+xTouch
+x/Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Touch /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.appa29898ff7a4bb441^e011a5ff7a4bb441^---0#0#0#--420"Touch build/Debug-iphonesimulator/HttpSSLClient.app    cd /Users/vanja/projects/iOSplayground/HttpSSLClient    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/vanja/projects/iOSplayground/HttpSSLClient/build/Debug-iphonesimulator/HttpSSLClient.app36"22C51456-816C-489F-A165-F7E8ADAAB7FA-
+
