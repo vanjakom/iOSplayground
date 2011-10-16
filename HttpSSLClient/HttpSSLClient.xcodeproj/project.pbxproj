@@ -121,6 +121,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = BusyWait;
 			};
 			buildConfigurationList = A52AF45C144B79D400F048A9 /* Build configuration list for PBXProject "HttpSSLClient" */;
 			compatibilityVersion = "Xcode 3.2";
