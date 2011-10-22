@@ -14,6 +14,8 @@
 		A52AF475144B79D400F048A9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A52AF474144B79D400F048A9 /* AppDelegate.m */; };
 		A52AF478144B79D400F048A9 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A52AF476144B79D400F048A9 /* MainStoryboard.storyboard */; };
 		A52AF47B144B79D400F048A9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A52AF47A144B79D400F048A9 /* ViewController.m */; };
+		A567791914536D4D00D04133 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A567791814536D4D00D04133 /* Security.framework */; };
+		A567791C14536E0C00D04133 /* userA.p12 in Resources */ = {isa = PBXBuildFile; fileRef = A567791B14536E0C00D04133 /* userA.p12 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		A52AF477144B79D400F048A9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		A52AF479144B79D400F048A9 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		A52AF47A144B79D400F048A9 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		A567791814536D4D00D04133 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		A567791B14536E0C00D04133 /* userA.p12 */ = {isa = PBXFileReference; lastKnownFileType = file; path = userA.p12; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +40,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A567791914536D4D00D04133 /* Security.framework in Frameworks */,
 				A52AF467144B79D400F048A9 /* UIKit.framework in Frameworks */,
 				A52AF469144B79D400F048A9 /* Foundation.framework in Frameworks */,
 			);
@@ -47,6 +52,7 @@
 		A52AF457144B79D400F048A9 = {
 			isa = PBXGroup;
 			children = (
+				A567791B14536E0C00D04133 /* userA.p12 */,
 				A52AF46A144B79D400F048A9 /* HttpSSLClient */,
 				A52AF465144B79D400F048A9 /* Frameworks */,
 				A52AF463144B79D400F048A9 /* Products */,
@@ -64,6 +70,7 @@
 		A52AF465144B79D400F048A9 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				A567791814536D4D00D04133 /* Security.framework */,
 				A52AF466144B79D400F048A9 /* UIKit.framework */,
 				A52AF468144B79D400F048A9 /* Foundation.framework */,
 			);
@@ -147,6 +154,7 @@
 			files = (
 				A52AF46F144B79D400F048A9 /* InfoPlist.strings in Resources */,
 				A52AF478144B79D400F048A9 /* MainStoryboard.storyboard in Resources */,
+				A567791C14536E0C00D04133 /* userA.p12 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +281,7 @@
 				A52AF480144B79D400F048A9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
