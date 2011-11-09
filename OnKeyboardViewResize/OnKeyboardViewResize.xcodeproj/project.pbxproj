@@ -1,0 +1,277 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A53426311469505D001634CF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A53426301469505D001634CF /* UIKit.framework */; };
+		A53426331469505D001634CF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A53426321469505D001634CF /* Foundation.framework */; };
+		A53426391469505D001634CF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A53426371469505D001634CF /* InfoPlist.strings */; };
+		A534263B1469505D001634CF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A534263A1469505D001634CF /* main.m */; };
+		A534263F1469505D001634CF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A534263E1469505D001634CF /* AppDelegate.m */; };
+		A53426421469505D001634CF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A53426411469505D001634CF /* ViewController.m */; };
+		A53426451469505D001634CF /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A53426431469505D001634CF /* ViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A534262C1469505D001634CF /* OnKeyboardViewResize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnKeyboardViewResize.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A53426301469505D001634CF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		A53426321469505D001634CF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		A53426361469505D001634CF /* OnKeyboardViewResize-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "OnKeyboardViewResize-Info.plist"; sourceTree = "<group>"; };
+		A53426381469505D001634CF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A534263A1469505D001634CF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A534263C1469505D001634CF /* OnKeyboardViewResize-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "OnKeyboardViewResize-Prefix.pch"; sourceTree = "<group>"; };
+		A534263D1469505D001634CF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		A534263E1469505D001634CF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A53426401469505D001634CF /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		A53426411469505D001634CF /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		A53426441469505D001634CF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A53426291469505D001634CF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A53426311469505D001634CF /* UIKit.framework in Frameworks */,
+				A53426331469505D001634CF /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A53426211469505C001634CF = {
+			isa = PBXGroup;
+			children = (
+				A53426341469505D001634CF /* OnKeyboardViewResize */,
+				A534262F1469505D001634CF /* Frameworks */,
+				A534262D1469505D001634CF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A534262D1469505D001634CF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A534262C1469505D001634CF /* OnKeyboardViewResize.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A534262F1469505D001634CF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A53426301469505D001634CF /* UIKit.framework */,
+				A53426321469505D001634CF /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A53426341469505D001634CF /* OnKeyboardViewResize */ = {
+			isa = PBXGroup;
+			children = (
+				A534263D1469505D001634CF /* AppDelegate.h */,
+				A534263E1469505D001634CF /* AppDelegate.m */,
+				A53426401469505D001634CF /* ViewController.h */,
+				A53426411469505D001634CF /* ViewController.m */,
+				A53426431469505D001634CF /* ViewController.xib */,
+				A53426351469505D001634CF /* Supporting Files */,
+			);
+			path = OnKeyboardViewResize;
+			sourceTree = "<group>";
+		};
+		A53426351469505D001634CF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A53426361469505D001634CF /* OnKeyboardViewResize-Info.plist */,
+				A53426371469505D001634CF /* InfoPlist.strings */,
+				A534263A1469505D001634CF /* main.m */,
+				A534263C1469505D001634CF /* OnKeyboardViewResize-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A534262B1469505D001634CF /* OnKeyboardViewResize */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A53426481469505D001634CF /* Build configuration list for PBXNativeTarget "OnKeyboardViewResize" */;
+			buildPhases = (
+				A53426281469505D001634CF /* Sources */,
+				A53426291469505D001634CF /* Frameworks */,
+				A534262A1469505D001634CF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OnKeyboardViewResize;
+			productName = OnKeyboardViewResize;
+			productReference = A534262C1469505D001634CF /* OnKeyboardViewResize.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A53426231469505C001634CF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = A53426261469505C001634CF /* Build configuration list for PBXProject "OnKeyboardViewResize" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A53426211469505C001634CF;
+			productRefGroup = A534262D1469505D001634CF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A534262B1469505D001634CF /* OnKeyboardViewResize */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A534262A1469505D001634CF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A53426391469505D001634CF /* InfoPlist.strings in Resources */,
+				A53426451469505D001634CF /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A53426281469505D001634CF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A534263B1469505D001634CF /* main.m in Sources */,
+				A534263F1469505D001634CF /* AppDelegate.m in Sources */,
+				A53426421469505D001634CF /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A53426371469505D001634CF /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A53426381469505D001634CF /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		A53426431469505D001634CF /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A53426441469505D001634CF /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A53426461469505D001634CF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		A53426471469505D001634CF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A53426491469505D001634CF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "OnKeyboardViewResize/OnKeyboardViewResize-Prefix.pch";
+				INFOPLIST_FILE = "OnKeyboardViewResize/OnKeyboardViewResize-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		A534264A1469505D001634CF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "OnKeyboardViewResize/OnKeyboardViewResize-Prefix.pch";
+				INFOPLIST_FILE = "OnKeyboardViewResize/OnKeyboardViewResize-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A53426261469505C001634CF /* Build configuration list for PBXProject "OnKeyboardViewResize" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A53426461469505D001634CF /* Debug */,
+				A53426471469505D001634CF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A53426481469505D001634CF /* Build configuration list for PBXNativeTarget "OnKeyboardViewResize" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A53426491469505D001634CF /* Debug */,
+				A534264A1469505D001634CF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A53426231469505C001634CF /* Project object */;
+}
