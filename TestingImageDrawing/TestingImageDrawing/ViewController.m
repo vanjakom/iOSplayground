@@ -16,7 +16,6 @@
 {
     NSLog(@"Creating image");
     
-    // TODO create image
     CGSize size = CGSizeMake(240.0f, 240.0f);
     UIGraphicsBeginImageContext(size);
     CGContextRef context = UIGraphicsGetCurrentContext();
