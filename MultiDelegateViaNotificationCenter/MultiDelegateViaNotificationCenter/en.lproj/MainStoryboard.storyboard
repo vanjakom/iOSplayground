@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="2.0" toolsVersion="2843" systemVersion="12C60" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="2">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="1929"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="5">
+            <objects>
+                <viewController id="2" customClass="ViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="3">
+                        <rect key="frame" x="0.0" y="20" width="320" height="548"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IYn-a0-E32" customClass="NotifiedLabel">
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="161" id="3GN-xQ-RHc"/>
+                                    <constraint firstAttribute="height" constant="21" id="n2u-qd-ScR"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Md-jO-mak" customClass="NotifiedLabel">
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HMe-zg-6JH" customClass="NotifiedLabel">
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="l3p-t9-H5S">
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <state key="normal" title="Connect">
+                                    <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="connectListener1:" destination="2" eventType="touchDown" id="vnX-I1-ZTi"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GFx-8R-wZK">
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="KeM-xp-lST"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <state key="normal" title="Connect">
+                                    <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="connectListener2:" destination="2" eventType="touchDown" id="VI9-Px-qL5"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4DM-Zc-chc">
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="oSY-PB-AzT"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <state key="normal" title="Connect">
+                                    <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="connectListener3:" destination="2" eventType="touchDown" id="UKS-Zn-LwG"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3bU-Hb-zTe">
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <state key="normal" title="Broadcast">
+                                    <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="broadcastMessage:" destination="2" eventType="touchDown" id="h0K-Id-eRC"/>
+                                </connections>
+                            </button>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Message" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="mwH-6J-UBV">
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="115" id="eWq-U5-Das"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                                <connections>
+                                    <action selector="dissmissKeyboard:" destination="2" eventType="editingDidEndOnExit" id="Rmq-LG-Kxl"/>
+                                </connections>
+                            </textField>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="l3p-t9-H5S" secondAttribute="trailing" constant="43" id="164-3L-jba"/>
+                            <constraint firstItem="4DM-Zc-chc" firstAttribute="baseline" secondItem="HMe-zg-6JH" secondAttribute="baseline" type="default" id="7Sb-TJ-4mC"/>
+                            <constraint firstItem="9Md-jO-mak" firstAttribute="trailing" secondItem="IYn-a0-E32" secondAttribute="trailing" type="default" id="7k5-Sn-402"/>
+                            <constraint firstAttribute="bottom" secondItem="3bU-Hb-zTe" secondAttribute="bottom" constant="170" id="86Q-La-yUw"/>
+                            <constraint firstItem="IYn-a0-E32" firstAttribute="leading" secondItem="9Md-jO-mak" secondAttribute="leading" type="default" id="D44-Vu-UiI"/>
+                            <constraint firstItem="9Md-jO-mak" firstAttribute="leading" secondItem="HMe-zg-6JH" secondAttribute="leading" type="default" id="EYd-Bg-7Sg"/>
+                            <constraint firstItem="IYn-a0-E32" firstAttribute="leading" secondItem="3" secondAttribute="leading" constant="45" id="IZP-j6-098"/>
+                            <constraint firstItem="GFx-8R-wZK" firstAttribute="leading" secondItem="l3p-t9-H5S" secondAttribute="leading" type="default" id="K9l-Bb-RNg"/>
+                            <constraint firstItem="GFx-8R-wZK" firstAttribute="baseline" secondItem="9Md-jO-mak" secondAttribute="baseline" type="default" id="Vfh-BT-D8e"/>
+                            <constraint firstItem="9Md-jO-mak" firstAttribute="top" secondItem="3" secondAttribute="top" constant="100" id="WkP-xc-1ca"/>
+                            <constraint firstItem="9Md-jO-mak" firstAttribute="trailing" secondItem="HMe-zg-6JH" secondAttribute="trailing" type="default" id="aNM-7o-My0"/>
+                            <constraint firstItem="IYn-a0-E32" firstAttribute="top" secondItem="3" secondAttribute="top" constant="56" id="az1-Gu-Lea"/>
+                            <constraint firstItem="HMe-zg-6JH" firstAttribute="top" secondItem="3" secondAttribute="top" constant="145" id="bNT-0R-t2t"/>
+                            <constraint firstItem="mwH-6J-UBV" firstAttribute="centerX" secondItem="3bU-Hb-zTe" secondAttribute="centerX" type="default" id="gk6-h7-zPO"/>
+                            <constraint firstItem="IYn-a0-E32" firstAttribute="top" secondItem="l3p-t9-H5S" secondAttribute="top" type="default" id="klR-sl-duo"/>
+                            <constraint firstItem="mwH-6J-UBV" firstAttribute="centerX" secondItem="3" secondAttribute="centerX" type="default" id="qbi-g2-ylO"/>
+                            <constraint firstItem="IYn-a0-E32" firstAttribute="bottom" secondItem="l3p-t9-H5S" secondAttribute="bottom" type="default" id="u7Z-Xg-Bv0"/>
+                            <constraint firstAttribute="bottom" secondItem="mwH-6J-UBV" secondAttribute="bottom" constant="229" id="xaL-Z6-I8g"/>
+                            <constraint firstItem="4DM-Zc-chc" firstAttribute="leading" secondItem="GFx-8R-wZK" secondAttribute="leading" type="default" id="yZ8-0S-BED"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="listenerLabel1" destination="IYn-a0-E32" id="83w-VE-0U2"/>
+                        <outlet property="listenerLabel2" destination="9Md-jO-mak" id="BOi-HR-VHf"/>
+                        <outlet property="listenerLabel3" destination="HMe-zg-6JH" id="JO2-rD-g18"/>
+                        <outlet property="messageField" destination="mwH-6J-UBV" id="gPg-rN-XZR"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="4" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+    <classes>
+        <class className="NSLayoutConstraint" superclassName="NSObject">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/NSLayoutConstraint.h"/>
+        </class>
+        <class className="NotifiedLabel" superclassName="UILabel">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/NotifiedLabel.h"/>
+        </class>
+        <class className="ViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/ViewController.h"/>
+            <relationships>
+                <relationship kind="action" name="broadcastMessage:"/>
+                <relationship kind="action" name="connectListener1:"/>
+                <relationship kind="action" name="connectListener2:"/>
+                <relationship kind="action" name="connectListener3:"/>
+                <relationship kind="action" name="dissmissKeyboard:"/>
+                <relationship kind="outlet" name="listenerLabel1" candidateClass="NotifiedLabel"/>
+                <relationship kind="outlet" name="listenerLabel2" candidateClass="NotifiedLabel"/>
+                <relationship kind="outlet" name="listenerLabel3" candidateClass="NotifiedLabel"/>
+                <relationship kind="outlet" name="messageField" candidateClass="UITextField"/>
+            </relationships>
+        </class>
+    </classes>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>
