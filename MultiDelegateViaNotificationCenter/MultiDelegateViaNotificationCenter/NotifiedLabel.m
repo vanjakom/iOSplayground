@@ -27,12 +27,14 @@
     }
 }
 
-- (void)connect
+- (NSString*)connect
 {
     if (connected) {
         [self disconnectInternal];
+        return @"Connect";
     } else {
         [self connectInternal];
+        return @"Disconnect";
     }
 }
 
@@ -46,14 +48,14 @@
 - (void)connectInternal
 {    
     [NotificationHelper registerForNotification:@"TestMessage" WithDelegate:self];
-    NSLog(@"Connected: %p", self);
+    NSLog(@"Connected");
     connected = YES;
 }
 
 - (void)disconnectInternal
 {
     [NotificationHelper unregisterForNotification:self];
-    NSLog(@"Disconnected: %p", self);
+    NSLog(@"Disconnected");
     connected = NO;
 }
 

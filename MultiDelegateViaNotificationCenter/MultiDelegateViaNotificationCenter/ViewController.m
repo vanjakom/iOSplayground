@@ -13,17 +13,26 @@
 
 - (IBAction)connectListener1:(id)sender
 {
-    [self.listenerLabel1 connect];
+    UIButton* button = sender;
+    NSString* title = [self.listenerLabel1 connect];
+    
+    [button setTitle:title forState:UIControlStateNormal];
 }
 
 - (IBAction)connectListener2:(id)sender
 {
-    [self.listenerLabel2 connect];
+    UIButton* button = sender;
+    NSString* title = [self.listenerLabel2 connect];
+    
+    [button setTitle:title forState:UIControlStateNormal];
 }
 
 - (IBAction)connectListener3:(id)sender
 {
-    [self.listenerLabel3 connect];
+    UIButton* button = sender;
+    NSString* title = [self.listenerLabel3 connect];
+    
+    [button setTitle:title forState:UIControlStateNormal];
 }
 
 - (IBAction)broadcastMessage:(id)sender

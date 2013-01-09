@@ -13,7 +13,7 @@
 
 - (void)dealloc;
 
-- (void)connect;
+- (NSString*)connect;
 
 - (void)reactOnNotification:(NSNotification*)notification;
 
